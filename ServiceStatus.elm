@@ -1,3 +1,4 @@
+module ServiceStatus exposing(..)
 import Html exposing(..)
 import Html.Events exposing (..)
 import Http
